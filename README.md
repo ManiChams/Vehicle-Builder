@@ -16,3 +16,9 @@ This prompts the user to either create a new vehicle or select an existing vehic
    ```sh
    git clone https://github.com/yourusername/vehicle-builder.git
    cd vehicle-builder
+
+## Acknowledgements 
+I used reddit https://www.reddit.com/r/AskProgramming/about/?rdt=33640 for help with this project. 
+
+## Demo vid
+here is the video that show how the application works https://drive.google.com/file/d/1j44WVEbiP-7dk41Rs3bhtO0d4s16MaCR/view?usp=drive_link
